@@ -1,10 +1,6 @@
-## Hello World! I'm Sahir Radzi👋
+<!-- ## Hello World! I'm Sahir Radzi👋 -->
 
 ![SahirRadzi](img/new_header.png)
-
-<!-- ## Coming Soon Dec 2025
-
-![Papazola](img/papazola.jpg) -->
 
 <!--
 **SahirRadzi/sahirradzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,3 +43,7 @@ Here are some ideas to get you started:
 ##### Design Skill - Beginner
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+
+## Coming Soon Dec 2025
+
+![Papazola](img/papazola.jpg)
