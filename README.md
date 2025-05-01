@@ -1,8 +1,8 @@
 ## Hello World! I'm Sahir Radzi👋
 
-#### Coming Soon Dec 2025
-
 ![SahirRadzi](img/new_header.png)
+
+## Coming Soon Dec 2025
 
 ![Papazola](img/papazola.jpg)
 
