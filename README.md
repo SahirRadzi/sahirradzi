@@ -2,7 +2,7 @@
 
 #### Coming Soon Dec 2025
 
-![SahirRadzi](img/header_1.png)
+![SahirRadzi](img/new_header.png)
 
 ![Papazola](img/papazola.jpg)
 
