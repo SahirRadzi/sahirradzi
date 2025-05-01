@@ -2,9 +2,9 @@
 
 ![SahirRadzi](img/new_header.png)
 
-## Coming Soon Dec 2025
+<!-- ## Coming Soon Dec 2025
 
-![Papazola](img/papazola.jpg)
+![Papazola](img/papazola.jpg) -->
 
 <!--
 **SahirRadzi/sahirradzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently **student**
-- 🌱 I’m currently learning [**Laravel 12**](https://laravel.com/)
+<!-- - 🔭 I’m currently **student**
+- 🌱 I’m currently learning [**Laravel 12**](https://laravel.com/) -->
 
 ##### Language Skills - Intermediate
 
