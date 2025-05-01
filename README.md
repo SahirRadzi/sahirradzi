@@ -2,6 +2,8 @@
 
 #### Coming Soon Dec 2025
 
+![SahirRadzi](img/header_1.png)
+
 ![Papazola](img/papazola.jpg)
 
 <!--
@@ -21,5 +23,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently **student**
 - 🌱 I’m currently learning [**Laravel 12**](https://laravel.com/)
-
-
