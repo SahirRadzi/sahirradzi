@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ##### Language Skills - Intermediate
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,php)](https://skillicons.dev)
 
 ##### Language Skills - Beginner
 
@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 ##### Framework & Library Skills - Beginner
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" />
+<img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" />
+
+![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,postman)
 
 ##### Database Skills - Intermediate
 
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 
 ##### Design Skill - Beginner
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+![My Skills](https://skillicons.dev/icons?i=ps)
 
 ## Coming Soon Dec 2025
 
