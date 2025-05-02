@@ -49,3 +49,11 @@ Here are some ideas to get you started:
 ## Coming Soon Dec 2025
 
 ![Papazola](img/papazola.jpg)
+
+<!-- ##### My Github Stats
+
+![Sahir Radzi GitHub stats](https://github-readme-stats.vercel.app/api?username=SahirRadzi) -->
+
+<img src="https://raw.githubusercontent.com/SahirRadzi/SahirRadzi/output/snake.svg" alt="Snake animation" />
+
+###
