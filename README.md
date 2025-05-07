@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently **student**
 - 🌱 I’m currently learning [**Laravel 12**](https://laravel.com/) -->
 
+##### My Project - HTML5, CSS & JS
+
+🌱 I’m currently build design for [**Monsta Web**](https://sahirradzi.github.io/monsta-web/)
+
 ##### Language Skills - Intermediate
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php)](https://skillicons.dev)
