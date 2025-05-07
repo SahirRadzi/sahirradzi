@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ##### My Project - HTML5, CSS & JS
 
-🌱 I’m currently build design for [**Monsta Web**](https://sahirradzi.github.io/monsta-web/)
+🌱 I’m currently build design Website for [**Monsta Web**](https://sahirradzi.github.io/monsta-web/)
 
 ##### Language Skills - Intermediate
 
