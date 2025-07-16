@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently build design Website Portfolio [**Web Portfolio**](https://sahirradzi.com)
 
-##### Language Skills - Intermediate
+##### Language Skills - Skilful
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php)](https://skillicons.dev)
 
