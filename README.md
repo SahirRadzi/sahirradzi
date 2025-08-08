@@ -1,6 +1,6 @@
 <!-- ## Hello World! I'm Sahir Radzi👋 -->
 
-![SahirRadzi](img/new_header.png)
+<!-- ![SahirRadzi](img/new_header.png) -->
 
 <!--
 **SahirRadzi/sahirradzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
